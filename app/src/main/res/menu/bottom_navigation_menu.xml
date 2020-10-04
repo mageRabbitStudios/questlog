@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/questsFragment"
+        android:icon="@drawable/ic_navigation_quests"
+        android:title="Questlog" />
+
+    <item
+        android:id="@+id/abilitiesFragment"
+        android:icon="@drawable/ic_navigation_abilities"
+        android:title="Abilities" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_navigation_profile"
+        android:title="Profile" />
+</menu>
